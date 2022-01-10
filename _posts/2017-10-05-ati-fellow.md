@@ -6,4 +6,4 @@ image: /images/ati.png
 categories: career
 authors: "Amartya Sanyal"
 ---
-Awarded the<a href="https://www.turing.ac.uk/">Turing Doctoral Studentship</a>.
+Awarded the <a href="https://www.turing.ac.uk/">Turing Doctoral Studentship</a>.
