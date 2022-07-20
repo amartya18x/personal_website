@@ -11,6 +11,7 @@ venue: Workshop on <a href="https://responsibledecisionmaking.github.io/submit/"
 spotlight: Workshop Paper
 important: new
 paper: https://arxiv.org/pdf/2207.03933.pdf
+poster: files/law_rob_poster.pdf
 ---
 Our paper titled <a href="https://arxiv.org/abs/2207.03933"> A law of
 adversarial risk, interpolation, and label noise  </a> provides a
