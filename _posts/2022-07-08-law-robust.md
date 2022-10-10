@@ -10,7 +10,7 @@ accepted: yes
 venue: Workshop on <a href="https://responsibledecisionmaking.github.io/submit/"> Responsible decision making in dynamic environments</a>, ICML 2022.
 spotlight: Workshop Paper
 important: new
-paper: https://arxiv.org/pdf/2207.03933.pdf
+paper: files/law_paper.pdf
 poster: files/law_rob_poster.pdf
 ---
 Our paper titled <a href="https://arxiv.org/abs/2207.03933"> A law of
