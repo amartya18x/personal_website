@@ -2,7 +2,6 @@
 layout: post
 title:  "Make Some Noise: Reliable and Efficient Single-Step Adversarial Training"
 date:   2022-09-13 00:08:00 +00:00
-image: /images/nfgsm.png
 categories: career
 authors: "Amartya Sanyal"
 important: new

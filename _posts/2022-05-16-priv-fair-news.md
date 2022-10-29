@@ -2,7 +2,6 @@
 layout: post
 title:  "How unfair is private learning ?"
 date:   2022-04-26 00:00:00 +00:00
-image: /images/private.jpg
 categories: career
 author:  <strong> Amartya Sanyal </strong>, Yaxi Hu,  <a href="https://sml.inf.ethz.ch/group/fannyy/"> Fanny Yang</a>
 subtitle: "Privacy and accuracy comes at the cost of fairness"
