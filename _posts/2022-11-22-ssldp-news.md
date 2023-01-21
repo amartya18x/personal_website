@@ -4,7 +4,7 @@ title:  "SSL low dimension"
 date:   2022-10-20 18:08:39 +00:00
 categories: career
 authors: "Amartya Sanyal"
-important: new
+important: old
 ---
 Our paper titled "Semi-private learning via low dimensional
 structures" got accepted in the workshop on <a
