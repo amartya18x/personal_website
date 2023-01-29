@@ -7,7 +7,8 @@ categories: research
 author:  <a href="https://omegafragger.github.io/"> Jishnu Mukhoti</a>,  <a href="https://vivkul.github.io/"> Viveka Kulharia</a>, <strong> Amartya Sanyal </strong>, Stuart Golodetz, <a href="https://www.robots.ox.ac.uk/~phst/">Philip H.S. Torr</a>,  <a href="https://puneetkdokania.github.io/">Puneet Dokania</a>
 subtitle: "Label noise and representations impact adversarial robustness"
 accepted: yes
-venue: Advances in Neural Information Processing Systems (NeurIPS)
+venue: <a href="https://neurips.cc">Advances in Neural Information Processing Systems (NeurIPS)</a>
+shortVenue: NeurIPS
 paper: https://papers.nips.cc/paper/2020/file/aeb7b30ef1d024a76f21a1d40e30c302-Paper.pdf
 code: https://github.com/torrvision/focal_calibration
 ---

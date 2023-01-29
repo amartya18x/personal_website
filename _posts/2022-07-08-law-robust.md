@@ -9,6 +9,7 @@ subtitle: "Interpolating label noise makes models vulnerable to adversarial atta
 accepted: yes
 venue: <a href="https://iclr.cc/">International Conference on Learning Representations</a> (ICLR) 
 important: new
+shortVenue: ICLR
 paper: https://openreview.net/forum?id=0_TxFpAsEI
-poster: files/law_rob_poster.pdf
+# poster: files/law_rob_poster.pdf
 ---

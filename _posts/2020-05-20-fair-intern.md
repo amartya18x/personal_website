@@ -6,5 +6,6 @@ image: /images/fair.jpg
 categories: career
 authors: "Amartya Sanyal"
 important: old
+important: kill
 ---
 Joining <a href="https://ai.facebook.com/"> Facebook AI Research (FAIR)</a> as a research intern with <a href="https://www.egrefen.com/"> Edward Grefenstette</a>.
