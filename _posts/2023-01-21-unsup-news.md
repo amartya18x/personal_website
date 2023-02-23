@@ -6,8 +6,8 @@ categories: career
 authors: "Amartya Sanyal"
 important: new
 ---
-Two papers on  <a href="https://openreview.net/forum?id=0_TxFpAsEI"> interpolating label noise provably hurts adversarial
-robustness</a> and  <a href="https://openreview.net/forum?id=LiXDW7CF94J">
+Two papers on  i) <a href="https://openreview.net/forum?id=0_TxFpAsEI"> interpolating label noise provably hurts adversarial
+robustness</a> and  ii) <a href="https://openreview.net/forum?id=LiXDW7CF94J">
 robustness of unsupervised representation learning
 to distribution shift</a> were accepted in the <a
 href="https://iclr.cc/">International
