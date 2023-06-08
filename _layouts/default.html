@@ -37,18 +37,22 @@
               <h1>
                 Amartya Sanyal
               </h1>
-              <p>I am a postdoctoral fellow at <a
-              href="https://ai.ethz.ch/"> ETH AI Center </a> where I
-              work closely with <a href="http://fanny-yang.de/"> Prof.
-              Fanny Yang </a> and <a href="https://www.is.mpg.de/~bs">
+              <p>I am a postdoctoral fellow at the Empirical Inference
+              group in <a href="https://ei.is.mpg.de/"> Max Planck
+              Institute for Intelligent Systems, Tubingen </a> where I
+              work closely with <a href="https://www.is.mpg.de/~bs">
                 Prof. Bernhard Schölkopf </a>. Prior to this, I was a
-                DPhil (PhD) student at <a
-                href="http://www.cs.ox.ac.uk/">Department of Computer
-                Science</a>, University of Oxford, funded by the <a
-                href="https://www.turing.ac.uk/">Turing Doctoral
-                Studentship</a>. I was also a member of the <a
-                href="https://torrvision.com/">Torr Vision Group</a>. My
-                DPhil advisors were <a
+                postdoctoral fellow at <a
+                href="https://ai.ethz.ch/"> ETH Zurich AI Center</a>
+                where I worked closely with <a
+                href="http://fanny-yang.de/"> Prof.  Fanny Yang </a>.
+                I  completed my DPhil (PhD) at the
+                <a href="http://www.cs.ox.ac.uk/">Department of
+                Computer Science</a>, University of Oxford, funded by
+                the <a href="https://www.turing.ac.uk/">Turing
+                Doctoral Studentship</a>. I was also a member of the
+                <a href="https://torrvision.com/">Torr Vision
+                Group</a>. My DPhil advisors were <a
                 href="http://www.cs.ox.ac.uk/people/varun.kanade/myindex.html">Varun
                 Kanade</a> and <a
                 href="https://www.robots.ox.ac.uk/~phst/">
@@ -118,21 +122,24 @@
         <br>
         <br>
      
-        <!-- <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+        <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2>Research</h2>
               <p>
-                I am interested in understanding various aspects of
-                Reliable Machine Learning. In particular, I am
-                focusing on the impacts that inadequate data and
-                computation may have on the reliability of ML
-                algorithms and how can solve these issues with
-                reasonable approximations and relaxations.
+                I am interested in understanding both theoretical and
+                empirical aspects of Trustworthy Machine Learning
+                including privacy, robustness, fairness. In
+                particular, I am focusing on the impacts that
+                inadequate data and computation may have on the
+                trustworthiness of ML algorithms and how one can solve
+                these issues with reasonable approximations and
+                relaxations including semi-supervised and
+                self-supervised learning.
               </p>
             </td>
           </tr>
-        </table> -->
+        </table>
 
         <br>
         <br>
@@ -147,9 +154,9 @@
           <tr>
             <td
             style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
-            <em><strong>{{post.shortVenue}}, {{ post.date | date: "%Y"
-            }}</strong> </em><br>
-            <font color="#FF0000"><strong> {{post.spotlight}} </strong></font>
+            <b><em>{{post.shortVenue}}, {{ post.date | date: "%Y"
+            }} </em><br>
+            <font>{{post.spotlight}}</b> </font>
               <!-- <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" /> -->
             </td>
             <td style="padding:2.5%;width:75%;vertical-align:middle">
@@ -186,7 +193,7 @@
         <br>
         <br>
         <br>
-      
+<!--       
         <table style="width:120%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:0px;">
           <h2> All News </h2>
           {% for post in site.posts %}
@@ -194,17 +201,17 @@
           {% if cat == 'career' %}
           {% if post.important != 'kill' %}
           <tr>
-            <td style="vertical-align:center;align:left;width:15%"><h4>{{post.date | date: "%B, %Y"}}</h4></td>
+            <td style="vertical-align:center;align:left;width:15%"><h5>{{post.date | date: "%B, %Y"}}</h5></td>
            
             <td style="padding:0.0%;width:80%;vertical-align:middle;align:left">
-              <h3> {{ post.excerpt }} </h3>
+              {{ post.excerpt }} 
             </td>
           </tr>
           {% endif %}
           {% endif %}
           {% endfor %}
           {% endfor %}
-        </table>
+        </table> -->
 
         <br>
         <br>

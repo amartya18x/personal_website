@@ -8,4 +8,4 @@ important: new
 ---
 Our paper titled <a href="https://arxiv.org/abs/2304.13019">
 Certifying Ensembles: A General Certification Theory with
-S-Lipschitzness </a> is accepted at ICML 2023.
+S-Lipschitzness </a> is accepted at <a href="https://icml.cc/">ICML 2023</a>.
