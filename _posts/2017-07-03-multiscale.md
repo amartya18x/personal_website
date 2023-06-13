@@ -7,5 +7,5 @@ author: Bart van Merriënboer, <strong> Amartya Sanyal </strong>, Hugo Larochell
 accepted: no
 venue: Machine Learning in Speech and Language Processing
 shortVenue: ICML Workshop
-paper: https://arxiv.org/pdf/1707.00762.pdf
+arxiv: https://arxiv.org/pdf/1707.00762.pdf
 ---

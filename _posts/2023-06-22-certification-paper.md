@@ -9,5 +9,5 @@ important: new
 accepted: yes
 venue: <a href="https://icml.cc/"> International Conference on Machine Learning </a>
 shortVenue: ICML
-paper: https://arxiv.org/pdf/2304.13019.pdf
+arxiv: https://arxiv.org/pdf/2304.13019.pdf
 ---

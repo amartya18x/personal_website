@@ -12,4 +12,5 @@ important: new
 shortVenue: ICLR
 paper: https://openreview.net/forum?id=0_TxFpAsEI
 poster: files/LawRobustness_poster.pdf
+arxiv: https://arxiv.org/abs/2207.03933
 ---

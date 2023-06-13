@@ -168,8 +168,11 @@
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }} 
               <strong> {{post.spotlight}} </strong>
               <br>
+              {% if post.arxiv %}
+              <a href="{{post.arxiv}}">Arxiv</a> /
+              {% endif %}
               {% if post.paper %}
-              <a href="{{post.paper}}">paper</a> /
+              <a href="{{post.paper}}">Proceedings</a> /
               {% endif %}
               {% if post.video %}
               <a href="{{post.video}}">video</a> /

@@ -10,5 +10,5 @@ important: new
 accepted: no
 venue: Arxiv
 shortVenue: Preprint
-paper: https://arxiv.org/abs/2201.06640
+arxiv: https://arxiv.org/abs/2201.06640
 ---
