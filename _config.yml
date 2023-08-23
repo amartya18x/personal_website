@@ -75,6 +75,8 @@ kramdown:
 sass:
   style: :compressed # You might prefer to minify using :compressed
 
+include: ['pages']
+
 # Use the following plug-ins
 plugins:
       - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
