@@ -19,7 +19,8 @@ Reach out to me if you are interested (and
       interest to me, feel free to send me an email describing your
       past work, an ideal project you would like to work on in your
       first year, and why it may be interesting to me. 
-
-      I will list specific positions below.
+      <br>
+      <br>
+      I will list specific positions below. More positions to be listed in September and October 2023.
 <br><br>
 

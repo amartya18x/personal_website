@@ -1,6 +1,6 @@
 ---
 categories: funding
-important: new
+important: old
 date: 2023-12-20 18:08:39 +00:00
 ---
 If you are interested in a fully funded PhD position with me to work on Trustworthy
