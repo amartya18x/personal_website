@@ -137,7 +137,8 @@
         <table
         style="width:120%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:0px;">
         <h2> Upcoming Talks </h2>
-        {% for post in site.posts %}
+        {% assign projects = site.posts | sorted: date | reverse %}
+        {% for post in projects %}
         {% for cat in post.categories %}
         {% if cat == 'talk' %}
         {% if post.important == 'new'%}
