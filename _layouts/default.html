@@ -33,7 +33,7 @@
       <td style="padding:0px">
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr style="padding:0px">
-            <td style="padding:2.5%;width:50%;vertical-align:middle">
+            <td style="padding:2.5%;width:40%;vertical-align:middle">
               <h1>
                 Amartya Sanyal
               </h1>
@@ -46,7 +46,29 @@
               href="https://www.math.ku.dk/english/">
               Department of Mathematics.</p>
               
-              <p>I am a postdoctoral fellow at the Empirical Inference
+             
+              
+              <p style="text-align:center">
+                <a target="_blank" href="mailto:amartya18x@gmail.com"> Email</a> &nbsp;/&nbsp;
+                <a href="https://github.com/amaryta18x">GitHub</a> &nbsp;/&nbsp;
+                <a href="https://scholar.google.com/citations?user=cRLqsyYAAAAJ">Google Scholar</a> &nbsp;/&nbsp;
+                <a href="files/cv.pdf">CV</a> &nbsp;
+            </p>
+            </td>
+            <td style="padding:2.5%;width:70%;max-width:70%">
+              <img style="width:100%;max-width:100%" alt="profile photo" src="images/cv_photo_2.jpg">
+            </td>
+          </tr>
+        </table>
+   
+
+        <br>
+        <br>
+        <br> <table
+        style="padding:2.5%;width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+      
+          <tr>
+            <p>Till then, I am a postdoctoral fellow at the Empirical Inference
               group in <a href="https://ei.is.mpg.de/"> Max Planck
               Institute for Intelligent Systems, Tubingen </a> where I
               work closely with <a href="https://www.is.mpg.de/~bs">
@@ -82,31 +104,11 @@
                 href="https://mila.quebec/en/"> Montreal Institute of
                 Learning Algorithms </a>, and Amazon ML.
               </p>
-              
-              <p style="text-align:center">
-                <a target="_blank" href="mailto:amartya18x@gmail.com"> Email</a> &nbsp;/&nbsp;
-                <a href="https://github.com/amaryta18x">GitHub</a> &nbsp;/&nbsp;
-                <a href="https://scholar.google.com/citations?user=cRLqsyYAAAAJ">Google Scholar</a> &nbsp;/&nbsp;
-                <a href="files/cv.pdf">CV</a> &nbsp;
-            </p>
-            </td>
-            <td style="padding:2.5%;width:50%;max-width:50%">
-              <img style="width:100%;max-width:100%" alt="profile photo" src="images/cv_photo_2.jpg">
-            </td>
-          </tr>
-        </table>
-   
-
-        <br>
-        <br>
-        <br> <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          <tr>
+              <tr>
             <td style="padding:2.5%;width:100%;vertical-align:middle">
               <h2 >Job Advertisement</h2>
               <p>
-        I will be <b> advertising PhD/Postdoc positions</b> soon on
-        this page (around October, 2023) for start in September 2024
-        or soon thereafter! <a href="/hiring/"> See here for more details</a>
+        If you are interested in a PhD position with me, <a href="/hiring/"> see here for more details</a>
             </p>
           </td>
         </tr>
@@ -114,6 +116,7 @@
    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
     <tr>
       <td style="padding:2.5%;width:100%;vertical-align:middle">
+        
         <h2>Research Interests</h2>
         <p>
           I am interested in understanding both theoretical and
@@ -131,7 +134,39 @@
     </tr>
   </table>
   <br><br><br>
-        <table style="width:120%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:0px;">
+        <table
+        style="width:120%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:0px;">
+        <h2> Upcoming Talks </h2>
+        {% for post in site.posts %}
+        {% for cat in post.categories %}
+        {% if cat == 'talk' %}
+        {% if post.important == 'new'%}
+        <tr>
+          <!-- <td style="vertical-align:center;align:left;width:15%"><h4>{{post.date | date: "%B, %Y"}}</h4></td> -->
+          <td
+            style="padding:0%;width:22%;vertical-align:middle;min-width:120px">
+            <em><b>{{post.venue}} </b></em><br>
+            {{ post.date | date: "%B %d "
+            }}
+              <!-- <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" /> -->
+            </td>
+          <td style="padding:2%;width:78%;vertical-align:middle;align:left">
+            <p> <b>{{post.title}} </b></p>
+          </td>
+        </tr>
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+        <br>
+        <br>
+        </table>
+        <br>
+        <br>
+        <br>
+        <br>
+        <table
+        style="width:120%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:0px;">
           <h2> Recent News </h2>
           {% for post in site.posts %}
           {% for cat in post.categories %}
