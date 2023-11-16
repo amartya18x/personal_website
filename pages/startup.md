@@ -1,6 +1,6 @@
 ---
 categories: funding
-important: new
+important: old
 date: 2023-11-15
 ---
 If you are interested in a fully funded PhD position with me to work

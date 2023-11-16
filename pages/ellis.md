@@ -1,6 +1,6 @@
 ---
 categories: funding
-important: new
+important: old
 date: 2023-11-15
 ---
 I will be a hiring an <strong> ELLIS PhD student</strong> starting in September 2024.
