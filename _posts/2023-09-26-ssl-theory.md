@@ -9,4 +9,6 @@ venue: Advances in Neural Information Processing Systems
 shortVenue: NeurIPS
 spotlight: Spotlight Paper
 important: new
+arxiv: https://arxiv.org/abs/2311.18557
+paper: https://openreview.net/forum?id=utreNaM1VY
 --- 

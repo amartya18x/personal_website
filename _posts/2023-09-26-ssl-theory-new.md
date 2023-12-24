@@ -10,6 +10,6 @@ shortVenue: NeurIPS
 spotlight: Spotlight Paper
 important: new
 ---
-Our paper on understanding the capabilities of semi-supervised
-learning was accepted as a spotlight paper in NeurIPS 2023. Paper to
-appear soon.
+Our paper on <a href="https://arxiv.org/abs/2311.18557">
+understanding the capabilities of semi-supervised learning </a> was
+accepted as a spotlight paper in <a href="https://neurips.cc"> NeurIPS 2023</a>. 
