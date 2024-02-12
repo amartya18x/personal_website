@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Make Some Noise: Reliable and Efficient Single-Step Adversarial Training"
-date:   2022-09-13 00:08:00 +00:00
+title:  "https://arxiv.org/abs/2302.09680"
+date:   2024-01-11 00:08:00 +00:00
 categories: career
 authors: "Amartya Sanyal"
 important: new
 ---
 
-Our paper titled <a href="https://arxiv.org/abs/2202.01181"> Make Some
-Noise: Reliable and Efficient Single-Step Adversarial Training </a>
-is accepted at NeurIPS 2022.
+Our paper titled <a href="https://arxiv.org/abs/2302.09680"> Sample-efficient private data release for Lipschitz functions under sparsity assumptions </a>
+is accepted at AISTATS 2024.
+
