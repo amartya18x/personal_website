@@ -11,7 +11,8 @@ paper: https://arxiv.org/abs/2402.16778
 ---
 
 
-Our preprint <a href="https://arxiv.org/abs/2402.16778">
-On the Growth of Mistakes in Differentially Private Online Learning: A
-Lower Bound Perspective</a> partially addresses the problem of
-separation between non-private and private online learning.
+Two new preprints: on the problem of<a href="https://arxiv.org/abs/2402.16778">
+separation between non-private and private online learning</a> and
+<a
+href="https://arxiv.org/abs/2402.14015"> machine unlearning beyond
+privacy concerns  </a> are online.
