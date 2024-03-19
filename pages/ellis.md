@@ -1,10 +1,9 @@
 ---
 categories: funding
-important: old
-date: 2023-11-15
+important: new
+date: 2024-05-13
 ---
-I will be a hiring an <strong> ELLIS PhD student</strong> starting in September 2024.
-You can find more details on the <a
-href="https://ellis.eu/news/ellis-phd-program-call-for-applications-2023">
-ELLIS PhD link </a>. You will be a part of UCPH Computer Science and
-we can discuss the choice of the co-supervisor depending on your interests.
+I will be a hiring a <strong> PhD student</strong> starting in
+November 2024. The position will be co-supervised by Prof. Amir
+Yehudayoff at University of Copenhagen, Prof. Varun Kanade in the
+University of Oxford, and myself. 
