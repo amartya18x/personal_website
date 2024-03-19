@@ -15,7 +15,7 @@ to me if you are interested (and refer to this paragraph below in your
       Some topics I am personally interested in are
         <ul>
           <li><b>Trustworthy Machine Learning</b> including
-          differential privacy, robustness, certification, fairness
+          differential privacy, robustness, unlearning, certification, fairness
           etc. and </li>
           <li> <b>Learning with limited and imperfect data</b>
           including unlabelled data, noisy data, and under
