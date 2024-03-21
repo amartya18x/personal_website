@@ -9,6 +9,6 @@ author: <a href="https://sml.inf.ethz.ch/group/konstantind/"> Konstantin Donhaus
 important: new
 accepted: yes
 venue: <a href="https://aistats.org/aistats2024/"> Artificial Intelligence and Statistics </a> <br><a href="https://tpdp.journalprivacyconfidentiality.org/2023/"> Theory and Practice of Differential Privacy </a>
-shortVenue: AISTATS
+shortVenue: TPDP,AISTATS
 arxiv:  https://arxiv.org/abs/2302.09680
 ---
