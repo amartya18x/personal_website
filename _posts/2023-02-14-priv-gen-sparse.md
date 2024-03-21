@@ -2,7 +2,7 @@
 layout: post
 categories: research
 authors: "Amartya Sanyal"
-title:  "Sample-efficient private data release for Lipschitz functions under sparsity assumptions"
+title:  "Certified private data release for sparse Lipschitz functions"
 date:   2024-01-11 00:00:00 +00:00
 image: /images/cert_mnist.png
 author: <a href="https://sml.inf.ethz.ch/group/konstantind/"> Konstantin Donhauser</a>, Johan Lokna, <strong> Amartya Sanyal </strong>, March Boedihardjo, Robert Hönig, <a href="https://sml.inf.ethz.ch/group/fannyy/"> Fanny Yang</a>, 
