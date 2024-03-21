@@ -11,8 +11,7 @@ paper: https://arxiv.org/abs/2402.16778
 ---
 
 
-Two new preprints: on the problem of<a href="https://arxiv.org/abs/2402.16778">
-separation between non-private and private online learning</a> and
-<a
-href="https://arxiv.org/abs/2402.14015"> machine unlearning beyond
+Three new preprints: on the problem of<a href="https://arxiv.org/abs/2402.16778"> separation between
+non-private and private online learning</a>, <a href="https://arxiv.org/abs/2403.13041"> privacy guarantees despite
+non-private pre-processing</a> and <a href="https://arxiv.org/abs/2402.14015"> machine unlearning beyond
 privacy concerns  </a> are online.
