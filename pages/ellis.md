@@ -4,7 +4,7 @@ important: new
 date: 2024-05-13
 ---
 
-I will be a hiring a <strong> PhD student</strong> starting in
+I am a hiring a <strong> PhD student</strong> starting in
 November 2024. The position will be co-supervised by <a
 href="https://di.ku.dk/english/staff/vip/?pure=en/persons/786711">
 Prof. Amir Yehudayoff </a> at University of Copenhagen, <a
