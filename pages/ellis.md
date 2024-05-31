@@ -1,7 +1,6 @@
 ---
 categories: funding
 important: new
-date: 2024-05-13
 ---
 
  I will be hiring a postdoc starting in 2025 (possibly earlier if
