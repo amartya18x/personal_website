@@ -4,11 +4,9 @@ important: new
 date: 2024-05-13
 ---
 
-I am a hiring a <strong> PhD student</strong> starting in
-November 2024. The position will be co-supervised by <a
-href="https://di.ku.dk/english/staff/vip/?pure=en/persons/786711">
-Prof. Amir Yehudayoff </a> at University of Copenhagen, <a
-href="https://www.cs.ox.ac.uk/people/varun.kanade/website/"> Prof.
-Varun Kanade</a> at the University of Oxford, and myself.  <a
-href="https://candidate.hr-manager.net/ApplicationInit.aspx/?cid=1307&departmentId=18970&ProjectId=161521">Apply
-here </a>.
+ I will be hiring a postdoc starting in 2025 (possibly earlier if
+ there is a really good match). Reach out to me via email  if you are
+ interested and  you think we can be a good team. In the email,
+ remember to refer to this advertisement, tell me about some of the
+ topics you are interested in, and a couple of your past papers that
+ you are really proud of.
