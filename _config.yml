@@ -75,7 +75,7 @@ kramdown:
 sass:
   style: :compressed # You might prefer to minify using :compressed
 
-include: ['pages']
+include: ['pages','kuprojects']
 
 future: true
 # Use the following plug-ins

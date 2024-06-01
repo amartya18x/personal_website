@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>{{ page.title }}</title>
+    <title>{{ kuprojects.title }}</title>
 
   <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 
@@ -36,7 +36,7 @@
             <tr style="padding:0px">
               <td style="padding:2.5%;width:50%;vertical-align:middle">
                 <h1>
-                  Open Positions
+                  Project Supervision at KU
                 </h1>
 
                 <p>{{page.content}}</p>
@@ -45,30 +45,6 @@
                 </tr>
                 </table>
 
-                <br><br><br>
-                <table style="width:120%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:0px;">
-                  <h2> Available Positions </h2>
-                  {% for fund in site.pages %}
-                  {% for cat in fund.categories %}
-                  {% if cat == 'funding' %}
-                  {%if fund.important == 'new'%}
-                  <tr>
-                    <td
-                    style="vertical-align:center;align:left;width:25%"><h4>Deadline:
-                    {{fund.date | date: "%B, %Y"}}</h4></td>
-                   
-                    <td style="padding:1%;width:70%;vertical-align:middle;align:left">
-                      <h3> {{ fund.content }} </h3>
-                    </td>
-                    <!-- <td style="padding:0.5%;width:15%;vertical-align:middle;align:right;min-width:120px">
-                      <img src="{{post.image}}" alt="news image" style="width:auto; height:auto; max-width:100%;" />
-                    </td> -->
-                  </tr>
-                  {% endif %}
-                  {% endif %}
-                  {% endfor %}
-                  {% endfor %}
-                </table>
             </td>
             </tr>
             </table>
