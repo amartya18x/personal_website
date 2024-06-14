@@ -11,4 +11,5 @@ accepted: yes
 venue: <a href="https://aistats.org/aistats2024/"> Artificial Intelligence and Statistics </a> <br><a href="https://tpdp.journalprivacyconfidentiality.org/2023/"> Theory and Practice of Differential Privacy </a>
 shortVenue: TPDP, AISTATS
 arxiv:  https://arxiv.org/abs/2302.09680
+paper: https://proceedings.mlr.press/v238/donhauser24a.html
 ---

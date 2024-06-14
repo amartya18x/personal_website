@@ -163,14 +163,15 @@
         <tr>
           <!-- <td style="vertical-align:center;align:left;width:15%"><h4>{{post.date | date: "%B, %Y"}}</h4></td> -->
           <td
-            style="padding:0%;width:22%;vertical-align:middle;min-width:120px">
-            <em><b>{{post.venue}} </b></em><br>
+            style="padding:0%;width:12%;vertical-align:middle;min-width:120px">
+            
             {{ post.date | date: "%B %d "
             }}
               <!-- <img src="{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" /> -->
             </td>
-          <td style="padding:2%;width:78%;vertical-align:middle;align:left">
-            <p> <b>{{post.title}} </b></p>
+          <td style="padding:2%;width:88%;vertical-align:middle;align:left">
+            <b>{{post.title}}  @ {{post.venue}}
+            </b></em><br> </td>
           </td>
         </tr>
         {% endif %}
