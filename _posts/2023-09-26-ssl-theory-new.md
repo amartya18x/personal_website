@@ -8,7 +8,7 @@ accepted: yes
 venue: Advances in Neural Information Processing Systems 
 shortVenue: NeurIPS
 spotlight: Spotlight Paper
-important: new
+important: old
 ---
 Our paper on <a href="https://arxiv.org/abs/2311.18557">
 understanding the capabilities of semi-supervised learning </a> was
