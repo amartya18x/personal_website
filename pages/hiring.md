@@ -3,14 +3,21 @@ permalink: /hiring/
 layout: pages
 title: Vacancies
 ---
-I am looking for highly motivated students, with a strong background
+I am looking for highly motivated PhD students and Postdocs, with a strong background
 in probability, statistics, linear algebra, and programming. Reach out
 to me if you are interested (and refer to this paragraph below in your
-      email) in pursuing a PhD with me on topics in Theory and
+      email) in pursuing a PhD or Postdoc with me on topics in Theory and
       Foundations of Machine Learning, that you think will also be of
-      interest to me. In your email, please describe your past work,
+      interest to me. In your email,  
+      <br>
+
+      <ul>
+      <li> <strong> If you are looking for a PhD position </strong>, describe your past educational and research experience,
       an ideal project you would like to work on in your first year,
-      and why it may be interesting to me.  <br>
+      and why it may be interesting to me
+      <li> <strong> If you are looking for a Postdoc position </strong>  why you think we would be a good match, what broad topics you would like to work on, and a couple of your past papers that you have really enjoyed working on.
+      </ul>
+      
       <br>
       Some topics I am personally interested in are
         <ul>
