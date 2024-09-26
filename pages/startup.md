@@ -1,11 +1,10 @@
 ---
 categories: funding
-important: old
-date: 2023-11-15
+important: new
+date: 2025-01-20
 ---
-If you are interested in a fully funded PhD position with me to work
-on Trustworthy ML with a focus on differential privacy and/or
-robustness in machine learning, apply <a
-href="https://employment.ku.dk/phd/?show=160100"> on this departmental
-page</a>. Position starting next August or soon thereafter. Send me an
- <a href="mailto:amsa@di.ku.dk"> email  </a> as well.
+I am looking for highly motivates <strong> PhD students</strong> to work with me on
+Trustworthy ML with a focus on continual/online learning, unlearning,
+ differential privacy, and/or robustness in machine learning. A strong
+background in mathematics and computer science is necessary. Send me
+ an <a href="mailto:amsa@di.ku.dk"> email </a> if you think you are a good fit.

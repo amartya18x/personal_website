@@ -3,7 +3,7 @@ layout: post
 title:  "ICML Workshop"
 date:   2024-07-10 00:00:00 +00:00
 categories: career
-important: new
+important: old
 ---
 We will be presenting four paper in ICML Workshops including one <a
 href="https://arxiv.org/abs/2406.19049v1"> oral presentation </a> at
