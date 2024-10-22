@@ -28,6 +28,6 @@ to me if you are interested (and refer to this paragraph below in your
           including unlabelled data, noisy data, and under
           distribution shift.</li>
       </ul>
-      See below for specific funded positions starting in 2024. If you already have funding or are interested in co-supervision by me, please reach out to me by email.
+      See below for specific funded positions starting in 2024. If you already have funding or are interested in co-supervision by me, please reach out to me by email. <strong> For all positions, a strong ackground in mathematics and computer science is necessary.</strong>
 
 
