@@ -3,7 +3,7 @@ categories: funding
 important: new
 date: 2025-01-20
 ---
-I am looking for highly motivates <strong> PhD students</strong> to work with me on
+I am looking for highly motivated <strong> PhD students</strong> to work with me on
 Trustworthy ML with a focus on continual/online learning, unlearning,
  differential privacy, and/or robustness in machine learning. <a
 href="https://employment.ku.dk/all-vacancies/?show=162812"> Apple here
