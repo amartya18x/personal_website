@@ -7,7 +7,7 @@ categories: research
 author:  <a href="https://danielpaleka.com/"> Daniel Paleka*</a>, <strong> Amartya Sanyal* </strong>
 subtitle: "Interpolating label noise makes models vulnerable to adversarial attacks"
 accepted: yes
-venue: <a href="https://iclr.cc/">International Conference on Learning Representations</a> (ICLR) 
+venue: <a href="https://iclr.cc/">International Conference on Learning Representations</a>  
 important: new
 shortVenue: ICLR
 paper: https://openreview.net/forum?id=0_TxFpAsEI
