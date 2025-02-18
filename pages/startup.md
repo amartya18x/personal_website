@@ -1,7 +1,7 @@
 ---
 categories: funding
-important: new
-date: 2025-01-20
+important: old
+date: P
 ---
 I am looking for highly motivated <strong> PhD students</strong> to work with me on
 Trustworthy ML with a focus on continual/online learning, unlearning,
